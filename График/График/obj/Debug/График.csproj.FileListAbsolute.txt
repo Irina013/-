@@ -1,0 +1,15 @@
+C:\Users\1225908\source\repos\График\График\bin\Debug\График.exe.config
+C:\Users\1225908\source\repos\График\График\bin\Debug\График.exe
+C:\Users\1225908\source\repos\График\График\bin\Debug\График.pdb
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.csprojAssemblyReference.cache
+C:\Users\1225908\source\repos\График\График\obj\Debug\MainWindow.g.cs
+C:\Users\1225908\source\repos\График\График\obj\Debug\App.g.cs
+C:\Users\1225908\source\repos\График\График\obj\Debug\График_MarkupCompile.cache
+C:\Users\1225908\source\repos\График\График\obj\Debug\График_MarkupCompile.lref
+C:\Users\1225908\source\repos\График\График\obj\Debug\MainWindow.baml
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.g.resources
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.csproj.CoreCompileInputs.cache
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.exe
+C:\Users\1225908\source\repos\График\График\obj\Debug\График.pdb
