@@ -114,7 +114,7 @@ namespace График
 
 
             double[] arr = dataList.ToArray();
-            // Строим описание синусоиды
+            // Строим описание графика
             GeometryGroup geometryGroup = new GeometryGroup();
             for (int i = 0; i <= (arr.Length - 3); i+=2)
             {
